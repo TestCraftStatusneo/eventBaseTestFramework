@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/data"
+  },
+  "response": {
+    "status": 200,
+    "body": "Rajat Goyal says this is a test message at this time"
+  }
+}
