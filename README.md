@@ -1,7 +1,7 @@
 # Kafka Couchbase Integration Test Automation Framework
 
 ## Authors
-- [Rajat Goyal](rajat.goyal@statusneo.com) (https://github.com/errajatgoyal) - Framework contributor
+- [Rajat Goyal](https://github.com/errajatgoyal)- Framework contributor (rajat.goyal@statusneo.com)
 
 ## Description
 
