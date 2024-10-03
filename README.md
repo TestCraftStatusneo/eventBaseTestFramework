@@ -26,7 +26,7 @@ Before running this POC, ensure that you have the following components set up an
 
 2. **Navigate to the project directory**:
    ```bash
-   cd kafka-couchbase-integration-poc
+   cd EventDrivenTestingPOC
    ```
 
 3. **Set up Kafka and Couchbase**:
