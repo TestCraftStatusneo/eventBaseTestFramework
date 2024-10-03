@@ -21,7 +21,7 @@ Before running this POC, ensure that you have the following components set up an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/kafka-couchbase-integration-poc.git
+   git clone https://github.com/TestCraftStatusneo/eventBaseTestFramework.git
    ```
 
 2. **Navigate to the project directory**:
